@@ -1,0 +1,77 @@
+{
+  "city_json": {
+    "request": {
+      "body": {
+        "row": 9,
+        "page": 1,
+        "cityno": "340100",
+        "areano": "",
+        "banktype": 0
+      },
+      "header": {
+        "device": {
+          "model": "SM-N7508V",
+          "osVersion": "4.3",
+          "imei": "352203064891579",
+          "isRoot": "1",
+          "nfc": "1",
+          "brand": "samsung",
+          "mac": "B8:5A:73:94:8F:E6",
+          "uuid": "45cnqzgwplsduran7ib8fw3aa",
+          "osType": "01"
+        },
+        "appId": "1",
+        "net": {
+          "ssid": "oa-wlan",
+          "netType": "WIFI_oa-wlan",
+          "cid": "17129544",
+          "lac": "41043",
+          "isp": "",
+          "ip": "195.214.145.199"
+        },
+        "appVersion": "3.60",
+        "transId": "QueryBranchBank",
+        "reqSeq": "0"
+      }
+    }
+  },
+  "area_json": {
+    "request": {
+      "body": {
+        "parNo": 510000
+      },
+      "header": {
+        "device": {
+          "model": "SM-N7508V",
+          "osVersion": "4.3",
+          "imei": "352203064891579",
+          "isRoot": "1",
+          "nfc": "1",
+          "brand": "samsung",
+          "mac": "B8:5A:73:94:8F:E6",
+          "uuid": "45cnqzgwplsduran7ib8fw3aa",
+          "osType": "01"
+        },
+        "appId": "1",
+        "net": {
+          "ssid": "oa-wlan",
+          "netType": "WIFI_oa-wlan",
+          "cid": "17129544",
+          "lac": "41043",
+          "isp": "",
+          "ip": "195.214.145.199"
+        },
+        "appVersion": "3.60",
+        "transId": "QueryArea2",
+        "reqSeq": "0"
+      }
+    }
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36",
+    "Referer": "http://www.cmbc.com.cn/channelApp/finance/FWWD.jsp",
+    "Origin": "http://www.cmbc.com.cn",
+    "Content-Type": "application/json",
+    "Cookie": "BIGipServerCMBCWEB_menhuwangzhan_8000_web_pool=2270363658.2336.0000; JSESSIONID=uLHNm3I-K-T5RFyZCmPq _qXU8yucZPeJLN7tTCg1kw2mQaV1zOlB!-1623711326"
+  }
+}
